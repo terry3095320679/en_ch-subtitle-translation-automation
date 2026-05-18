@@ -5,7 +5,13 @@ Python-based AI automation tool for translating English subtitles into Chinese u
 
 Overview
 --------
+This project was developed collaboratively by volunteers at Saddleback Church to automate English-to-Chinese subtitle translation workflows.
 This project is a toolkit for processing sermon video subtitles. It includes scripts to extract English subtitles from video/audio, merge and split segments, perform multi-stage Chinese translation (literal + adaptive), adjust formatting for readability, and upload/download subtitles to/from YouTube. The workflow is split into steps `Step1` through `Step10` so you can run or debug each stage independently.
+My contributions included:
+- Modifying Python scripts for subtitle translation automation
+- Running the translation pipeline and successfully publishing translated subtitles to YouTube
+- Improving translation consistency and quality
+- Testing and reviewing subtitle outputs
 
 Features
 --------
